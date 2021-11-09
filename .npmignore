@@ -64,6 +64,3 @@ typings/
 lib
 
 .DS_Store
-
-/*.js
-!index.js
